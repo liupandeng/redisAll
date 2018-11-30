@@ -1,1 +1,4 @@
 # redisSimpleDemo
+redis
+redisSentinel
+redisCluster
